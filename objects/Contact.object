@@ -358,6 +358,14 @@ CASE( Dreamforce__c,
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>Checkbox_for_Training__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Checkbox for Training</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>Department</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
